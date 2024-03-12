@@ -1,0 +1,1 @@
+export const DataSelector = (data)=>data.donnee;
